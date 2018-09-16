@@ -2,3 +2,6 @@ does ruby pass by reference or value?
 
 Pass by reference (must keep assignment and immutability in mind). Ruby acts like pass by value with immutable objects, and pass by reference with mutable object.
 
+What is a module? 
+
+Ruby code is between module and end (methods, variables) that can be used elsewhere
